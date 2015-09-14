@@ -1,7 +1,7 @@
 # LISP
 Program that performs string operations on a given arithmetic LISP expression that containers an operator followed by 1 or more sublists.
 
-Created for the Senior Divison of Contest #2 for the 2014-2015 American Computer Science League Competition.
+Created for the Senior Divison of Contest #2 for the 2014-2015 [American Computer Science League Competition](acsl.org).
 
 Example of a valid expression: (ADD (EXP -3 2) (SQR 5) (SUB 6 2) (MULT 6 7 -2 3) (DIV 15 5))
 
